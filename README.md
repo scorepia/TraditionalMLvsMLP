@@ -30,6 +30,8 @@
 
 ### ปล.รายละเอียดเพิ่มเติมของการทดลองแสดงใน Report
 
+https://github.com/scorepia/TraditionalMLvsMLP/blob/main/Report.pdf
+
 ## Member
 6310432002 
 
