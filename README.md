@@ -15,7 +15,7 @@
 ในส่วนของ Traditional Machine Learning ประกอบด้วย Decision Tree, K-K-Nearest Neighbors, Naive Bayes, Support Vector Machines และ XGboost
 ในส่วนของ MLP จะใช้ activation function ใน hidden node คือ relu และ output node คือ sigmoid
 
-### ปล.รายละเอียดเพิ่มเติมของการทดลองพบใน report
+### ปล.รายละเอียดเพิ่มเติมของการทดลองแสดงใน Report
 
 ## Member
 6310432002 
