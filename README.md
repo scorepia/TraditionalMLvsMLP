@@ -16,6 +16,9 @@
 
 ![Screenshot 2022-09-15 165505](https://user-images.githubusercontent.com/94518867/190385373-36842b93-50fc-498a-b04c-5e4c7fb2a67b.jpg)
 
+
+### ปล.รายละเอียดเพิ่มเติมของการทดลองสามารถดูได้ใน Report
+
 ## Member
 6310432002  ทรงคมกฤช ไชยกาล 
 
