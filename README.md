@@ -33,8 +33,8 @@
 https://github.com/scorepia/TraditionalMLvsMLP/blob/main/Report.pdf
 
 ## Member
-6310432002 
+6310432002 ทรงคมกฤช ไชยกาล
 
-6410412005
+6410412005 เดโช ศรีสวัสดิ์
 
-6410412015
+6410412015 คุณานนต์ กลิ่นจันทร์หอม
