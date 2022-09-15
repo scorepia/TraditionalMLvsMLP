@@ -17,7 +17,7 @@
 
 ## Conclusion
 
-| Model  |  Accuracy(%) | Runtime(s) |
+| Model  |  Accuracy (%) | Runtime (s) |
 | ----  |  ---- | ---- |
 | Decision Tree     |     82.75 | 0.0029
 | XGboost     |     86.41 | 2.272
