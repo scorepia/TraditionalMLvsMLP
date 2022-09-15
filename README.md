@@ -9,11 +9,12 @@
 
 รายละเอียดของชุดข้อมูลก่อนปรับแต่ง
 
-![Screenshot 2022-09-15 165626](https://user-images.githubusercontent.com/94518867/190384105-9e07fe05-9c96-4522-b832-2e753fd21f09.jpg)
+![Screenshot 2022-09-15 165626](https://user-images.githubusercontent.com/94518867/190385191-f73b2880-1aee-471d-830c-3de433459128.jpg)
+
 
 รายละเอียดของชุดข้อมูลหลังปรับแต่ง
 
-![Screenshot 2022-09-15 165505](https://user-images.githubusercontent.com/94518867/190384247-15ccfd37-1975-4f9b-b4e2-57fba82b9d1a.jpg)
+![Screenshot 2022-09-15 165505](https://user-images.githubusercontent.com/94518867/190385373-36842b93-50fc-498a-b04c-5e4c7fb2a67b.jpg)
 
 ## Member
 6310432002  ทรงคมกฤช ไชยกาล 
