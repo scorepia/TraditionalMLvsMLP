@@ -14,8 +14,7 @@
 
 รายละเอียดของชุดข้อมูลหลังปรับแต่ง
 
-![Screenshot 2022-09-15 165505](https://user-images.githubusercontent.com/94518867/190385373-36842b93-50fc-498a-b04c-5e4c7fb2a67b.jpg)
-
+![Screenshot 2022-09-15 182931](https://user-images.githubusercontent.com/94518867/190392710-65d88799-b625-4af1-870f-0f912c31f826.jpg)
 
 ### ปล.รายละเอียดเพิ่มเติมของการทดลองสามารถดูได้ใน Report
 
