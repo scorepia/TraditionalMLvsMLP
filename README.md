@@ -10,16 +10,12 @@
 ## Data Source
 แหล่งข้อมูล: https://www.kaggle.com/datasets/mastmustu/income
 
-รายละเอียดของชุดข้อมูลก่อนปรับแต่ง
+## Training
 
-![Screenshot 2022-09-15 165626](https://user-images.githubusercontent.com/94518867/190385191-f73b2880-1aee-471d-830c-3de433459128.jpg)
+ในส่วนของ Traditional Machine Learning ประกอบด้วย Decision Tree, K-K-Nearest Neighbors, Naive Bayes, Support Vector Machines และ XGboost
+ในส่วนของ MLP จะใช้ activation function ใน hidden node คือ relu และ output node คือ sigmoid
 
-
-รายละเอียดของชุดข้อมูลหลังปรับแต่ง
-
-![Screenshot 2022-09-15 182931](https://user-images.githubusercontent.com/94518867/190392710-65d88799-b625-4af1-870f-0f912c31f826.jpg)
-
-### ปล.รายละเอียดเพิ่มเติมของการทดลองสามารถดูได้ใน Report
+### ปล.รายละเอียดเพิ่มเติมของการทดลองพบใน report
 
 ## Member
 6310432002 
