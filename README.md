@@ -2,7 +2,7 @@
 
 ## Introduction
 
-งานชิ้นนี้เป็นการเปรียบเทียบศักยภาพในการวิเคราะห์ข้อมูลระหว่าง Traditional Machine Learning (ML) กับ Multilayer Perceptron (MLP) ในข้อมูลประเภท Tabular Data ซึ่ง Traditional ML ที่นำมาใช้ในงานชิ้นนี้คือ Logistic, XGBoost, Decision Tree, SVM และ Naive Bayes โดยในการเปรียบเทียบครั้งนี้ข้อมูลที่นำมาใช้จะเป็นการจำแนกข้อมูลแบบ Binary Classification 
+งานชิ้นนี้เป็นการเปรียบเทียบศักยภาพในการวิเคราะห์ข้อมูลระหว่าง Traditional Machine Learning (ML) กับ Multilayer Perceptron (MLP) ในข้อมูลประเภท Tabular Data โดยในการเปรียบเทียบครั้งนี้ข้อมูลที่นำมาใช้จะเป็นการจำแนกข้อมูลแบบ Binary Classification 
 
 ## Data Source
 แหล่งข้อมูล: https://www.kaggle.com/datasets/mastmustu/income
